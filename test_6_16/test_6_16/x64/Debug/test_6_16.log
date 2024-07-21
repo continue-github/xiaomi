@@ -1,0 +1,3 @@
+﻿  test_6_16.c
+D:\Visual_Studio-2022\c--project\c---advanced\test_6_16\test_6_16\test_6_16.c(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  test_6_16.vcxproj -> D:\Visual_Studio-2022\c--project\c---advanced\test_6_16\x64\Debug\test_6_16.exe
